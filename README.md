@@ -1,5 +1,5 @@
 # Nashville Housing Data Cleaning and Analysis with SQL
-## Project Overview.
+## Project Overview
 * Modified variable types to accommodate later analysis.
 * Conducted a self-join to populate missing property address values.
 * Parsed out variables using both Substring and Parsename methods.
