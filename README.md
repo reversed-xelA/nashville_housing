@@ -7,4 +7,4 @@
 
 ## Resources
 ***SQL Server:*** Microsoft SQL Server 16    
-***Our World in Data Covid Data Set:*** [https://ourworldindata.org/covid-deaths  ](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+***Our World in Data Covid Data Set:*** https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx
